@@ -1,0 +1,10 @@
+C:\Users\Кушающий\Desktop\NET_Labs\Object_Redactor\Object_Redactor\bin\Debug\Object_Redactor.exe.config
+C:\Users\Кушающий\Desktop\NET_Labs\Object_Redactor\Object_Redactor\bin\Debug\Object_Redactor.exe
+C:\Users\Кушающий\Desktop\NET_Labs\Object_Redactor\Object_Redactor\bin\Debug\Object_Redactor.pdb
+C:\Users\Кушающий\Desktop\NET_Labs\Object_Redactor\Object_Redactor\obj\Debug\Object_Redactor.Form1.resources
+C:\Users\Кушающий\Desktop\NET_Labs\Object_Redactor\Object_Redactor\obj\Debug\Object_Redactor.Properties.Resources.resources
+C:\Users\Кушающий\Desktop\NET_Labs\Object_Redactor\Object_Redactor\obj\Debug\Object_Redactor.csproj.GenerateResource.cache
+C:\Users\Кушающий\Desktop\NET_Labs\Object_Redactor\Object_Redactor\obj\Debug\Object_Redactor.csproj.CoreCompileInputs.cache
+C:\Users\Кушающий\Desktop\NET_Labs\Object_Redactor\Object_Redactor\obj\Debug\Object_Redactor.exe
+C:\Users\Кушающий\Desktop\NET_Labs\Object_Redactor\Object_Redactor\obj\Debug\Object_Redactor.pdb
+C:\Users\Кушающий\Desktop\NET_Labs\Object_Redactor\Object_Redactor\obj\Debug\Object_Redactor.csprojAssemblyReference.cache
